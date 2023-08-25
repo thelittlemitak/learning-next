@@ -1,0 +1,1 @@
+25/08/2023: If you are interested on how to learn Next 13 App Router, you can check the Udemy course called "Next.js by Example". It took my a (long long) while to find something that explained the new routing correctly and this course seems to be very good for it. Will update later on it.
